@@ -12,7 +12,8 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 
 
 
-![Uploading WhatsApp Image 2024-11-17 at 12.42.01_0a73f47f.jpg…]()
+![WhatsApp Image 2024-11-17 at 12 42 01_0a73f47f](https://github.com/user-attachments/assets/4a1ad03e-afd0-4d3d-86ec-469b7c6f7e1a)
+
 
 
 
